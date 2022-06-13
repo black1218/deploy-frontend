@@ -1,0 +1,23 @@
+{
+  "name": "node-express-rest-api",
+  "version": "1.0.0",
+  "description": "Build Secure Node.js, MongoDB, Express RESTful API From Scratch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "Digamber Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
